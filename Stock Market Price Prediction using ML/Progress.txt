@@ -1,0 +1,5 @@
+1. Python (Basics and it is going in class)[Everyone]
+2. Statistics and Probability(Ongoing in class as well as from coursera[Data visualization in Python]) [Piyush]
+3. Andrew Ng's course on Machine Learning(Ongoing)[Jaipreet, Krishnkant]
+5. Linear Algebra(Almost finished) [Jaipreet Singh]
+6. Python Libraries(Yogesh)

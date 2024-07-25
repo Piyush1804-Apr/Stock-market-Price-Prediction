@@ -1,0 +1,5 @@
+To do list: 
+1. start MPI from scratch
+2. Learn about stock market prediction project (Type of dataset, algorithm used etc.)
+3. Project Report and how to write it
+4. Learn how to read Research Paper and read some about ML 
